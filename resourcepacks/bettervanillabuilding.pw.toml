@@ -1,0 +1,13 @@
+name = "BetterVanillaBuilding"
+filename = "BetterVanillaBuildingRemakeBeta3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBcosBrl/versions/sxqPv39S/BetterVanillaBuildingRemakeBeta3.zip"
+hash-format = "sha512"
+hash = "848599cc4fb3333701d8e18e3fb5e995ef492547fe022856e4ea41eca5fd2fddcb6d8cb309b02f57fc84dfb8422d80e6cde2db94727f9cec554fac9f09e1a591"
+
+[update]
+[update.modrinth]
+mod-id = "LBcosBrl"
+version = "sxqPv39S"

@@ -1,0 +1,13 @@
+name = "A2K-FLOWERPOT-CLIENT"
+author = "A2KLAB"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ccf347492b61c6e435524ce48954755f6e93fc9de8acf3bd0791a6ab16a1884"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.10"
